@@ -38,12 +38,12 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohitKuGhosh&theme=dark&hide_border=true&show_icons=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitKuGhosh&theme=dark&hide_border=true&layout=compact" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohitKuGhosh&amp;theme=dark&amp;hide_border=true&amp;show_icons=true&amp;count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitKuGhosh&amp;theme=dark&amp;hide_border=true&amp;layout=compact" height="150" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MohitKuGhosh&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=MohitKuGhosh&amp;icon=0&amp;color=0" />
 </div>
