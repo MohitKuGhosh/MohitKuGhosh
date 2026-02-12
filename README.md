@@ -40,7 +40,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MohitKuGhosh&theme=radical&mode=weekly" height="150" alt="streak graph" />
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohitKuGhosh&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=MohitKuGhosh&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
 
 <br/>
