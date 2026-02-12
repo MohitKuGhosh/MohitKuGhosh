@@ -40,11 +40,11 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MohitKuGhosh&theme=radical&mode=weekly" height="150" alt="streak graph" />
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohitKuGhosh&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohitKuGhosh&layout=compact&theme=radical" height="160" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MohitKuGhosh&amp;icon=0&amp;color=0" />
+  <img src="https://komarev.com/ghpvc/?username=MohitKuGhosh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
