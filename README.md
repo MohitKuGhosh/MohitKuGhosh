@@ -38,7 +38,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MohitKuGhosh&theme=radical&mode=weekly" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=MohitKuGhosh&theme=radical&mode=weekly" height="180" alt="streak graph" />
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohitKuGhosh&layout=compact&theme=radical" height="250" alt="languages graph" />
 </div>
