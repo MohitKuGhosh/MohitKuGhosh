@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Mohit Kumar Ghosh! 👋</h2>
 
 <div align="center">
-  I'm an <b>Enthusiastic Fresher</b> passionate about <b>C++</b>, <b>Game Development</b>, and building immersive virtual experiences.
+  I'm an <b>Enthusiastic Fresher</b> passionate about <b>Python<b>, <b>Machine Learning<b><b>C++</b>, <b>Game Development</b>, and building immersive virtual experiences.
 </div>
 
 <br/>
